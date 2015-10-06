@@ -1,4 +1,4 @@
-i# mongoDB fundamentals
+# mongoDB fundamentals
 
 ## Contents
 
